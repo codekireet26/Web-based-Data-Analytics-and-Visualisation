@@ -1,2 +1,1 @@
-# Web-based-Data-Analytics-and-Visualisation
-first
+# In this I built a data analytics and visualisation web app. This app will read data from a raw CSV file in a pre-defined format and will generate visualisation charts for us. As this is a web app, I used Django as a platform to build this entire app. I also analysed the data using pandas and then fed the analysed data to a Django template and displayed it in terms of charts for data visualisation.
